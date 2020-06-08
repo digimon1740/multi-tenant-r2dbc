@@ -1,0 +1,13 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+
+datasource:
+  master:
+    username:
+    password:
+    url:
+  slave:
+    username:
+    password:
+    url:
